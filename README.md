@@ -21,7 +21,8 @@ data: contains raw and processed data files
 notebooks: contains Jupyter notebooks for data exploration and modeling
 models: contains trained machine learning models
 reports: contains written report and presentation
-Getting Started
+Getting Started : 
+
 Clone the repository: git clone https://github.com/username/ibm-applied-data-science-capstone.git
 Install required libraries: pip install -r requirements.txt
 Explore the project structure and files
